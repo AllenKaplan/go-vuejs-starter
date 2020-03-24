@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f2c1b6d-f591-484e-a96b-1195a4933dbc" name="Default Changelist" comment="" />
+    <list default="true" id="9f2c1b6d-f591-484e-a96b-1195a4933dbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/setup.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/routes/setup.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/repo.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/todo/repo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/todo.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/todo/todo.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,16 +24,19 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZVP4LoDwQZGQrsPfChDAqmaGjo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -36,6 +46,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\allen\go\src\github.com\AllenKaplan\go-vuejs-starter\cmd" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build go-vuejs-starter main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -51,6 +67,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/go-vuejs-starter" />
+      <path value="$PROJECT_DIR$/web" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Go_Modules_(vgo)" timestamp="1584921928939">
@@ -85,6 +108,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1878" height="261" key="GridCell.Tab.0.right/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584929867786" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1585016965292">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585016965292" />
     <state x="2543" y="225" key="search.everywhere.popup" timestamp="1585013649063">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
