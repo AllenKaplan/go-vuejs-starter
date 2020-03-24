@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f2c1b6d-f591-484e-a96b-1195a4933dbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="ProjectId" id="1ZVP4LoDwQZGQrsPfChDAqmaGjo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build go-vuejs-starter main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="go-vuejs-starter" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/|$PROJECT_DIR$/cmd/main.go" />
+      <package value="github.com/AllenKaplan/go-vuejs-starter/cmd" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Go_Modules_(vgo)" timestamp="1584921928939">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Go_Modules_(vgo)/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584921928939" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584921885003">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584921885003" />
+    <state x="2594" y="156" key="#go_build_go-vuejs-starter_main.go" timestamp="1584921918788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2594" y="156" key="#go_build_go-vuejs-starter_main.go/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584921918788" />
+    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1584924065988">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="274" key="FileChooserDialogImpl/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584924065988" />
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom" timestamp="1584929867786">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584929867786" />
+    <state width="1878" height="261" key="GridCell.Tab.0.center" timestamp="1584929867786">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.center/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584929867786" />
+    <state width="1878" height="261" key="GridCell.Tab.0.left" timestamp="1584929867785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.left/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584929867785" />
+    <state width="1878" height="261" key="GridCell.Tab.0.right" timestamp="1584929867786">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.right/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584929867786" />
+    <state x="2543" y="225" key="search.everywhere.popup" timestamp="1585013649063">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" key="search.everywhere.popup/-3240.-436.1620.1060/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585013649063" />
+  </component>
+</project>
