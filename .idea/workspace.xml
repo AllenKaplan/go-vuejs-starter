@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f2c1b6d-f591-484e-a96b-1195a4933dbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/setup.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/routes/setup.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/repo.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/todo/repo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/todo.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/todo/todo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web" beforeDir="false" afterPath="$PROJECT_DIR$/web" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
